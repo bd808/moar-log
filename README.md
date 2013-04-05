@@ -37,6 +37,12 @@ Tests are automatically performed by [Travis CI][]:
     phpunit
 
 
+See Also:
+---------
+* [PSR-3](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
+* [PSR Log](https://github.com/php-fig/log)
+* [Monolog](https://github.com/Seldaek/monolog)
+
 ---
 [Moar PHP Library]: https://github.com/bd808/moar
 [ci-status]: https://travis-ci.org/bd808/moar-log.png
